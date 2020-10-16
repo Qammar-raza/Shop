@@ -1,0 +1,4 @@
+// TYPES FOR CURRENT USER
+
+export const CURRENT_USER_ID = "CURRENT_USER_ID";
+export const CLEAR_USER_ID = "CLEAR_USER_ID";
